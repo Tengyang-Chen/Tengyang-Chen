@@ -3,7 +3,7 @@
 ```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
-# Powered by @Zhenya-Na Theme.
+# Powered by @Zhenye-Na Theme.
 
 class SoftwareEngineer:
 
