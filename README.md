@@ -3,7 +3,7 @@
 ```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
-
+# Powered by @Zhenya-Na Theme.
 
 class SoftwareEngineer:
 
@@ -37,6 +37,4 @@ me.say_hi()
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tengyang-Chen" />
-</a>  
-
-
+</a>
