@@ -1,5 +1,11 @@
 ## Happy 2023! 👋
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Tengyang-Chen.Tengyang-Chen) 
+
+<p align="left">
+  <a href="https://github.com/Tengyang-Chen">
+    <img src="https://komarev.com/ghpvc/?username=Tengyang-Chen" alt="Tengyang-Chen" />
+  </a>
+</p>
+
 ```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
